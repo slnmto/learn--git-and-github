@@ -1,3 +1,3 @@
-print(f"Hello World!")
+text = input("Say something...")
 
-print("say something...")
+print(f"{text}")
